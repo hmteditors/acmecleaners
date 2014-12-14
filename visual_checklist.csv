@@ -158,25 +158,25 @@ urn:cite:hmt:msA.78v,,,
 urn:cite:hmt:msA.79r,,,
 urn:cite:hmt:msA.79v,,,
 urn:cite:hmt:msA.80r,,,NS: book subscription double entere as urn:cts:greekLit:tlg5026.msAsub.hmt
-urn:cite:hmt:msA.80v,,,
-urn:cite:hmt:msA.81r,,,
-urn:cite:hmt:msA.81v,,,
-urn:cite:hmt:msA.82r,,,
-urn:cite:hmt:msA.82v,,,
-urn:cite:hmt:msA.83r,,,
-urn:cite:hmt:msA.83v,,,
-urn:cite:hmt:msA.84r,,,
-urn:cite:hmt:msA.84v,,,
-urn:cite:hmt:msA.85r,,,
-urn:cite:hmt:msA.85v,,,
-urn:cite:hmt:msA.86r,,,
-urn:cite:hmt:msA.86v,,,
-urn:cite:hmt:msA.87r,,,
-urn:cite:hmt:msA.87v,,,
-urn:cite:hmt:msA.88r,,,
-urn:cite:hmt:msA.88v,,,
-urn:cite:hmt:msA.89r,,,
-urn:cite:hmt:msA.89v,,,
+urn:cite:hmt:msA.80v,NS,,
+urn:cite:hmt:msA.81r,NS,,
+urn:cite:hmt:msA.81v,NS,,
+urn:cite:hmt:msA.82r,,,NS: should urn:cts:greekLit:tlg5026.msAint.hmt:6.168 be interior or some other class?
+urn:cite:hmt:msA.82v,,,NS: exterior scholion misclassified urn:cts:greekLit:tlg5026.msA.hmt:6.294
+urn:cite:hmt:msA.83r,,,NS: urn:cts:greekLit:tlg5026.msAint.hmt double entered as interior and interlinear
+urn:cite:hmt:msA.83v,NS,,
+urn:cite:hmt:msA.84r,,,NS: exterior urn:cts:greekLit:tlg5026.msA.hmt:6.295 misclassified
+urn:cite:hmt:msA.84v,NS,,
+urn:cite:hmt:msA.85r,,,NS: exterior urn:cts:greekLit:tlg5026.msA.hmt:6.296 misclassified
+urn:cite:hmt:msA.85v,NS,,
+urn:cite:hmt:msA.86r,,,NS: urn:cts:greekLit:tlg5026.msA.hmt:6.297
+urn:cite:hmt:msA.86v,NS,,
+urn:cite:hmt:msA.87r,NS,,
+urn:cite:hmt:msA.87v,NS,,
+urn:cite:hmt:msA.88r,NS,,
+urn:cite:hmt:msA.88v,NS,,
+urn:cite:hmt:msA.89r,,,NS urn:cts:greekLit:tlg5026.msA.hmt:6.298 misclassified
+urn:cite:hmt:msA.89v,,,NS:  urn:cts:greekLit:tlg5026.msA.hmt:6.299 misclassified
 urn:cite:hmt:msA.90r,NS,,
 urn:cite:hmt:msA.90v,,,NS: book subscription doubled entered
 urn:cite:hmt:msA.91r,,,NS: scholion misclassified
