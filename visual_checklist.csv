@@ -1,12 +1,12 @@
-Page,FirstInitials,SecondInitials,IssuePosted
-urn:cite:hmt:msA.1r,,,unindexed text
-urn:cite:hmt:msA.1v,,,misidentified text
+Page,Valid: first initials,Valid: second initials,Issue posted
+urn:cite:hmt:msA.1r,,,NS: unindexed text
+urn:cite:hmt:msA.1v,,,NS: misidentified text
 urn:cite:hmt:msA.2r,NS,,
 urn:cite:hmt:msA.2v,NS,,
 urn:cite:hmt:msA.3r,NS,,
 urn:cite:hmt:msA.3v,NS,,
 urn:cite:hmt:msA.4r,NS,,
-urn:cite:hmt:msA.4v,,,unindexed text
+urn:cite:hmt:msA.4v,,,NS: unindexed text
 urn:cite:hmt:msA.5r,,,
 urn:cite:hmt:msA.5v,,,
 urn:cite:hmt:msA.6r,,,
