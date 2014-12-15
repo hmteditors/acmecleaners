@@ -80,7 +80,7 @@ urn:cite:hmt:msA.39v,NS,,
 urn:cite:hmt:msA.40r,NS,,
 urn:cite:hmt:msA.40v,NS,,
 urn:cite:hmt:msA.41r,NS,,
-urn:cite:hmt:msA.41v,,,NS: book subscription indexed twice
+urn:cite:hmt:msA.41v,NS,,
 urn:cite:hmt:msA.42r,NS,,
 urn:cite:hmt:msA.42v,NS,,
 urn:cite:hmt:msA.43r,,,NS: Iliad line not indexed
@@ -99,7 +99,7 @@ urn:cite:hmt:msA.49r,NS,,
 urn:cite:hmt:msA.49v,NS,,
 urn:cite:hmt:msA.50r,NS,,
 urn:cite:hmt:msA.50v,NS,,
-urn:cite:hmt:msA.51r,,,NS: double entry for book subscription urn:cts:greekLit:tlg5026.msAsub.hmt
+urn:cite:hmt:msA.51r,NS,,
 urn:cite:hmt:msA.51v,NS,,
 urn:cite:hmt:msA.52r,NS,,
 urn:cite:hmt:msA.52v,NS,,
@@ -121,7 +121,7 @@ urn:cite:hmt:msA.60r,NS,,
 urn:cite:hmt:msA.60v,NS,,
 urn:cite:hmt:msA.61r,NS,,
 urn:cite:hmt:msA.61v,NS,,
-urn:cite:hmt:msA.62r,,,"NS: subscription double booked"
+urn:cite:hmt:msA.62r,NS,,
 urn:cite:hmt:msA.62v,NS,,
 urn:cite:hmt:msA.63r,,,NS: Check indexing of alternate / plus verse
 urn:cite:hmt:msA.63v,NS,,
@@ -157,7 +157,7 @@ urn:cite:hmt:msA.78r,NS,,
 urn:cite:hmt:msA.78v,NS,,
 urn:cite:hmt:msA.79r,,,NS: misclassifed scholion urn:cts:greekLit:tlg5026.msAil.hmt:5.5034
 urn:cite:hmt:msA.79v,NS,,
-urn:cite:hmt:msA.80r,,,NS: book subscription double entere as urn:cts:greekLit:tlg5026.msAsub.hmt
+urn:cite:hmt:msA.80r,NS,,
 urn:cite:hmt:msA.80v,NS,,
 urn:cite:hmt:msA.81r,NS,,
 urn:cite:hmt:msA.81v,NS,,
@@ -178,7 +178,7 @@ urn:cite:hmt:msA.88v,NS,,
 urn:cite:hmt:msA.89r,,,NS urn:cts:greekLit:tlg5026.msA.hmt:6.298 misclassified
 urn:cite:hmt:msA.89v,,,NS:  urn:cts:greekLit:tlg5026.msA.hmt:6.299 misclassified
 urn:cite:hmt:msA.90r,NS,,
-urn:cite:hmt:msA.90v,,,NS: book subscription doubled entered
+urn:cite:hmt:msA.90v,NS,,
 urn:cite:hmt:msA.91r,,,NS: scholion misclassified
 urn:cite:hmt:msA.91v,NS,,
 urn:cite:hmt:msA.92r,NS,,
