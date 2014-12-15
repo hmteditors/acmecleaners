@@ -1,6 +1,6 @@
 Page,Valid: first initials,Valid: second initials,Not valid: issue posted in hmt-archive
-urn:cite:hmt:msA.1r,,,NS: unindexed text
-urn:cite:hmt:msA.1v,,,NS: misidentified text
+urn:cite:hmt:msA.1r,NS,,
+urn:cite:hmt:msA.1v,NS,,
 urn:cite:hmt:msA.2r,NS,,
 urn:cite:hmt:msA.2v,NS,,
 urn:cite:hmt:msA.3r,NS,,
@@ -9,7 +9,7 @@ urn:cite:hmt:msA.4r,NS,,
 urn:cite:hmt:msA.4v,,,NS: unindexed text
 urn:cite:hmt:msA.5r,NS,,
 urn:cite:hmt:msA.5v,NS,,
-urn:cite:hmt:msA.6r,,,NS: unindexed text
+urn:cite:hmt:msA.6r,NS,,
 urn:cite:hmt:msA.6v,NS,,
 urn:cite:hmt:msA.7r,NS,,
 urn:cite:hmt:msA.7v,NS,,
