@@ -237,8 +237,8 @@ urn:cite:hmt:msA.118r,NS,,ME: another exterior simile number not indexed. These 
 urn:cite:hmt:msA.118v,NS,ME,
 urn:cite:hmt:msA.119r,NS,,ME: both intermarginal scholia seem to have been indexed twice - as 9.364 and 9.365 and again as 9.688 and 9.689
 urn:cite:hmt:msA.119v,NS,,ME: the rectangle for main scholion 9.380 is not tall enough--does not capture the entire scholion. One intermarginal scholion has been indexed twice--as 9.391 and 9.691
-urn:cite:hmt:msA.120r,NS,,
-urn:cite:hmt:msA.120v,NS,,
+urn:cite:hmt:msA.120r,NS,ME,
+urn:cite:hmt:msA.120v,NS,,ME: last two lines of poetic text mislabeled as 9.458 and 9.459 -- should be 9.462 and 9.463. Those lines are labeled correctly in the ms. browser. Missed interlinear scholion above 9.457: phi for pi.
 urn:cite:hmt:msA.121r,NS,,
 urn:cite:hmt:msA.121v,NS,,
 urn:cite:hmt:msA.122r,NS,,
